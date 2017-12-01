@@ -10,6 +10,6 @@ Camera Effects
 
 This is my Camera Effects project.
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Carleigh](https://github.com/noblettcarleigh/noblettcarleigh.github.io/blob/master/Carleigh.PNG?raw=true "Optional Title")
 
 ***
